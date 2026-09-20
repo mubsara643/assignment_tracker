@@ -99,7 +99,6 @@ class _SubmitAssignmentScreenState extends State<SubmitAssignmentScreen> {
       return;
     }
 
-    bool wasAlreadySubmitted = previouslySubmittedFile != null;
 
     await firestoreService.submitAssignment(
       widget.assignmentId,

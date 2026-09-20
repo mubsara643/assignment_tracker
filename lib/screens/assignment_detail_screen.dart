@@ -233,7 +233,7 @@ class _AssignmentDetailScreenState extends State<AssignmentDetailScreen> {
                         const Icon(Icons.insert_drive_file, color: Colors.blue),
                         const SizedBox(width: 8),
                         Expanded(
-                          child: Text(displayedFileName!,
+                          child: Text(displayedFileName,
                               overflow: TextOverflow.ellipsis,
                               style: const TextStyle(fontSize: 13)),
                         ),
