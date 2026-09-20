@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "161033173376",
+    "project_id": "assignment-tracker-77c5e",
+    "storage_bucket": "assignment-tracker-77c5e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161033173376:android:4e2e574436fcc1e7ece965",
+        "android_client_info": {
+          "package_name": "com.example.assignment_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvvml0TKpx3xTzIJLcoSQi-0Og_UNuosY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
