@@ -1,16 +1,134 @@
-# assignment_tracker
+\# Assignment Tracker
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+A simple Flutter application for managing assignments for teachers and students.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+\## Features
+
+
+
+\### Teacher
+
+
+
+\* Teacher signup and login
+
+\* Create classes
+
+\* Generate class join code
+
+\* Create assignments
+
+\* Add assignment title, description and due date
+
+\* View student submissions
+
+\* Add marks and feedback
+
+\* Delete assignments
+
+
+
+\### Student
+
+
+
+\* Student signup and login
+
+\* Join a class using a join code
+
+\* View class assignments
+
+\* Open assignment details
+
+\* Select a PDF or image file
+
+\* Submit assignment
+
+\* Replace submission
+
+\* Unsubmit assignment
+
+\* View marks and feedback
+
+
+
+\## Technologies Used
+
+
+
+\* Flutter
+
+\* Dart
+
+\* Firebase Authentication
+
+\* Cloud Firestore
+
+\* SharedPreferences
+
+\* File Picker
+
+
+
+\## Main Screens
+
+
+
+\* Login
+
+\* Signup
+
+\* Teacher Dashboard
+
+\* Student Dashboard
+
+\* Create Assignment
+
+\* Assignment Details
+
+\* Submit Assignment
+
+\* View Submissions
+
+
+
+\## Project Structure
+
+
+
+```text
+
+lib/
+
+├── core/
+
+├── models/
+
+├── screens/
+
+├── services/
+
+├── widgets/
+
+└── main.dart
+
+```
+
+
+
+\## About
+
+
+
+This project was created to practice Flutter development, Firebase, authentication, database operations, forms, and working with different user roles.
+
+
+
+\*\*Built with Flutter \& Dart\*\*
+
+
+
